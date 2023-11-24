@@ -19,4 +19,4 @@ Before running the code, ensure you have the following dependencies installed:
 
    ```bash
    git clone https://github.com/himankgupta1/face_detection.git
-   cd face-detection
+   cd face_detection
