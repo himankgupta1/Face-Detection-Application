@@ -15,8 +15,8 @@ This repository contains a Streamlit application for webcam-based face detection
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/himankgupta1/webcam-streamlit-app.git
-    cd webcam-streamlit-app
+    git clone https://github.com/himankgupta1/Face-Detection-Application.git
+    cd Face-Detection-Application
     ```
 
 2. Create a virtual environment and activate it:
